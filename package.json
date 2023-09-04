@@ -1,0 +1,20 @@
+{
+    "name": "ui-lib-shf",
+    "version": "1.0.0",
+    "description": "sleep function for JavaScript",
+    "main": "sleep.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/yersultan-ibn/ui-library-shf"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/yersultan-ibn/ui-library-shf/issues"
+    },
+    "homepage": "https://github.com/yersultan-ibn/ui-library-shf#readme"
+  }

@@ -3,12 +3,12 @@ Function `sleep` for JavaScript.
 >sleep(seconds) -> Promise
 ## Installation
 
-    npm i webgirlkristina-sleep
+    npm i ui-library-shf
 
 ## Usage
 
 ```js
-const sleep = require('webgirlkristina-sleep');
+const sleep = require('ui-library-shf');
 const test = async () => {
 	console.log('text1');
 	await sleep(2); //sleep for 2 seconds

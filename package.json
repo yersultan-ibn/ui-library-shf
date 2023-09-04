@@ -1,5 +1,5 @@
 {
-    "name": "ui-lib-shf",
+    "name": "ui-library-shf",
     "version": "1.0.0",
     "description": "sleep function for JavaScript",
     "main": "sleep.js",
